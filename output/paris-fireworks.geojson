@@ -1,0 +1,205 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2982,
+          48.8561
+        ]
+      },
+      "properties": {
+        "name": "Champ-de-Mars",
+        "event": "Feu d'artifice Paris",
+        "location": "Tour Eiffel",
+        "category": "premium",
+        "view_score": 10,
+        "comfort_score": 8,
+        "overall_score": 9.0,
+        "notes": "Close, immersive view; arrive very early."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2897,
+          48.8621
+        ]
+      },
+      "properties": {
+        "name": "Jardins du Trocadéro",
+        "event": "Feu d'artifice Paris",
+        "location": "Tour Eiffel",
+        "category": "view",
+        "view_score": 10,
+        "comfort_score": 6,
+        "overall_score": 8.0,
+        "notes": "Iconic frontal view; limited shade."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3869,
+          48.8717
+        ]
+      },
+      "properties": {
+        "name": "Parc de Belleville",
+        "event": "Feu d'artifice Paris",
+        "location": "Tour Eiffel",
+        "category": "premium",
+        "view_score": 9,
+        "comfort_score": 10,
+        "overall_score": 9.5,
+        "notes": "Elevated panorama with trees and lawns."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3134,
+          48.8567
+        ]
+      },
+      "properties": {
+        "name": "Esplanade des Invalides",
+        "event": "Feu d'artifice Paris",
+        "location": "Tour Eiffel",
+        "category": "premium",
+        "view_score": 8,
+        "comfort_score": 8,
+        "overall_score": 8.0,
+        "notes": "Open space and a broad western perspective."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2867,
+          48.857
+        ]
+      },
+      "properties": {
+        "name": "Berges de Seine — Passy",
+        "event": "Feu d'artifice Paris",
+        "location": "Tour Eiffel",
+        "category": "view",
+        "view_score": 8,
+        "comfort_score": 6,
+        "overall_score": 7.0,
+        "notes": "Seine-side perspective; space may fill quickly."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2878,
+          48.8517
+        ]
+      },
+      "properties": {
+        "name": "Île aux Cygnes",
+        "event": "Feu d'artifice Paris",
+        "location": "Tour Eiffel",
+        "category": "premium",
+        "view_score": 8,
+        "comfort_score": 8,
+        "overall_score": 8.0,
+        "notes": "Calmer riverside setting with mature trees."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2765,
+          48.8422
+        ]
+      },
+      "properties": {
+        "name": "Parc André-Citroën",
+        "event": "Feu d'artifice Paris",
+        "location": "Tour Eiffel",
+        "category": "comfort",
+        "view_score": 6,
+        "comfort_score": 10,
+        "overall_score": 8.0,
+        "notes": "Large green space; distant view."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2186,
+          48.8429
+        ]
+      },
+      "properties": {
+        "name": "Parc de Saint-Cloud",
+        "event": "Feu d'artifice Paris",
+        "location": "Tour Eiffel",
+        "category": "premium",
+        "view_score": 10,
+        "comfort_score": 10,
+        "overall_score": 10.0,
+        "notes": "Dominant, spacious panorama; verify opening and access."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2235,
+          48.8703
+        ]
+      },
+      "properties": {
+        "name": "Mont Valérien",
+        "event": "Feu d'artifice Paris",
+        "location": "Tour Eiffel",
+        "category": "premium",
+        "view_score": 10,
+        "comfort_score": 8,
+        "overall_score": 9.0,
+        "notes": "High panoramic viewpoint, outside central Paris."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2296,
+          48.8126
+        ]
+      },
+      "properties": {
+        "name": "Terrasse de l'Observatoire de Meudon",
+        "event": "Feu d'artifice Paris",
+        "location": "Tour Eiffel",
+        "category": "premium",
+        "view_score": 8,
+        "comfort_score": 10,
+        "overall_score": 9.0,
+        "notes": "Quiet elevated setting; distant view."
+      }
+    }
+  ]
+}

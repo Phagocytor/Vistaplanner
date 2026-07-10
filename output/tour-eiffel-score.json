@@ -1,0 +1,16 @@
+{
+  "comfort_score": 9.0,
+  "access_score": 8.5,
+  "overall_score": 8.8,
+  "evidence_counts": {
+    "bench": 476,
+    "bicycle_rental": 11,
+    "bus_stop": 207,
+    "drinking_water": 34,
+    "garden": 31,
+    "metro_entrance": 53,
+    "park": 19,
+    "station": 23,
+    "toilets": 18
+  }
+}
